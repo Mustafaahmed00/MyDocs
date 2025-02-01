@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**.
 
 ## 🔗 Connect
 - GitHub: [@Mustafaahmed00](https://github.com/Mustafaahmed00)
-- LinkedIn: [Mohammad Mustafa Ahmed](https://www.linkedin.com/in/mustafaahmed00)
+- LinkedIn: [Mohammad Mustafa Ahmed](https://www.linkedin.com/in/mustafa-ahmed002/)
 
 ---
 Made with ❤️ by **Mohammad Mustafa Ahmed**
