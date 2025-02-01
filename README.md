@@ -98,4 +98,4 @@ This project is licensed under the **MIT License**.
 - LinkedIn: [Mohammad Mustafa Ahmed](https://www.linkedin.com/in/mustafa-ahmed002/)
 
 ---
-Made with ❤️ by **Mohammad Mustafa Ahmed**
+Made with ❤️ by **Mohammad Mustafa Shiraz Ahmed**
