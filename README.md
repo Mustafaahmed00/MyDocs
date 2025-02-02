@@ -12,6 +12,7 @@ https://my-word-docs.vercel.app/
 - **Lexical Editor** – A modern WYSIWYG editor for rich-text editing
 - **ShadCN** – UI components for styling and functionality
 - **Tailwind CSS** – Utility-first CSS framework for responsive design
+- **Gemini** - enhances the qualtiy of your writing through suggestions
 
 ## 🔋 Features
 
@@ -69,9 +70,16 @@ CLERK_SECRET_KEY=
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 
+
 # Liveblocks API Keys
 NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
+
+# Sentry API Key
+SENTRY_AUTH_TOKEN=
+
+# Gemini API Key
+GEMINI_API_KEY=
 ```
 Replace the placeholder values with your **Clerk** and **Liveblocks** credentials.
 
@@ -84,7 +92,6 @@ Your app should now be running at `http://localhost:3000` 🎉
 ## 🛠️ Future Enhancements
 - **Document version history**
 - **Real-time voice collaboration**
-- **AI-powered text suggestions**
 - **Offline mode**
 
 ## 🤝 Contributing
