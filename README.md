@@ -1,6 +1,6 @@
-# 📄 My WordDocs
+# 📄 MyDocs
 
-My WordDocs is a real-time collaborative document editing application built with **Next.js, Liveblocks, and Tailwind CSS**. It replicates core features of Google Docs, enabling multiple users to collaborate in real-time on shared documents. This project demonstrates expertise in real-time applications and modern web development.
+MyDocs is a real-time collaborative document editing application built with **Next.js, Liveblocks, and Tailwind CSS**. It replicates core features of Google Docs, enabling multiple users to collaborate in real-time on shared documents. This project demonstrates expertise in real-time applications and modern web development.
 
 ## 🚀 Live Demo
 [Coming Soon]
