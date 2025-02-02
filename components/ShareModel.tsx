@@ -86,14 +86,14 @@ const ShareModal = ({ roomId, collaborators, creatorId, currentUserType }: Share
 
         <div className="my-2 space-y-2">
           <ul className="flex flex-col">
-            {collaborators.map((collaborator) => (
-              <Collaborator 
-                key={collaborator.id}
-                roomId={roomId}
-                creatorId={creatorId}
-                email={collaborator.email}
-                collaborator={collaborator}
-                user={user.info}
+          {collaborators?.map((collaborator: User) => ( // Add type annotation here
+      <Collaborator 
+        key={`${collaborator.id}-${collaborator.email}`} // More unique key
+        roomId={roomId}
+        creatorId={creatorId}
+        email={collaborator.email}
+        collaborator={collaborator}
+        user={user.info}
               />
             ))}
           </ul>

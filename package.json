@@ -22,6 +22,7 @@
     "@radix-ui/react-popover": "^1.1.5",
     "@radix-ui/react-select": "^2.1.5",
     "@radix-ui/react-slot": "^1.1.1",
+    "@sentry/nextjs": "^8.53.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "jsm-editor": "^0.0.12",
