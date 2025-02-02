@@ -1,3 +1,4 @@
+//integrating gemini for more effective writing
 import React, { useState } from 'react';
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
