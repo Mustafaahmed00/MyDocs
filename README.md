@@ -42,7 +42,7 @@ https://my-word-docs.vercel.app/
 ---
 
 ## 🤸 Quick Start
-Follow these steps to set up **My WordDocs** locally.
+Follow these steps to set up **MyDocs** locally.
 
 ### ✅ Prerequisites
 Ensure you have the following installed:
@@ -52,7 +52,7 @@ Ensure you have the following installed:
 
 ### 📥 Clone the Repository
 ```sh
- git clone https://github.com/Mustafaahmed00/My_WordDocs.git
+ git clone https://github.com/Mustafaahmed00/MyDocs.git
  cd My_WordDocs
 ```
 
