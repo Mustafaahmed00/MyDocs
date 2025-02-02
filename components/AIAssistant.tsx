@@ -166,7 +166,7 @@ const AIAssistant: React.FC<AIAssistantProps> = ({
         ) : (
           <div className="space-y-4">
             <p className="text-sm text-muted-foreground">
-              Select text in your document to get AI-powered suggestions from Claude
+              Select text in your document to get AI-powered suggestions from Gemini
             </p>
             <div className="border rounded p-3 space-y-2">
               <h4 className="text-sm font-medium">Available actions:</h4>
