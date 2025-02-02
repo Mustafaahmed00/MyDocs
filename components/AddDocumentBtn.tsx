@@ -23,7 +23,7 @@ const AddDocumentBtn = ({ userId, email }: AddDocumentBtnProps) => {
       <Image 
         src="/assets/icons/add.svg" alt="add" width={24} height={24}
       />
-      <p className="hidden sm:block">Start a blank document</p>
+      <p className="hidden sm:block">Start a new document</p>
     </Button>
   )
 }
